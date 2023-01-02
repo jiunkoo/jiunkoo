@@ -1,21 +1,15 @@
-<!--
-**jiunkoo/jiunkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://user-images.githubusercontent.com/52573800/210195277-824563ae-84d0-46fe-a3f8-b8eb34022819.gif" width="100%">
 
-# JIUN KOO
-- Backend Developer
+<h1 align="center">
+  <b>JIUN KOO</b>
+</h1>
 
+I am a Backend Developer with 2+ years.
+
+## Connect with me
+Email
+
+[![Gmail Badge](https://img.shields.io/badge/jiunkoo0106@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=c14438&labelColor=cdcdcd&link=mailto:jiunkoo0106@gmail.com)](mailto:jiunkoo0106@gmail.com) 
+
+## Statistics
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiunkoo0106)](https://solved.ac/jiunkoo0106)
