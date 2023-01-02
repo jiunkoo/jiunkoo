@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jiunkoo/jiunkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://user-images.githubusercontent.com/52573800/210195277-824563ae-84d0-46fe-a3f8-b8eb34022819.gif" width="100%">
+
+# JIUN KOO
+- Backend Developer
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiunkoo0106)](https://solved.ac/jiunkoo0106)
