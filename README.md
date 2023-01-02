@@ -1,9 +1,8 @@
-<img src="https://user-images.githubusercontent.com/52573800/210195277-824563ae-84d0-46fe-a3f8-b8eb34022819.gif" width="100%">
-
 <h1 align="center">
-  <b>JIUN KOO</b>
+  <b>KOUBIT</b>
 </h1>
 
+<img src="https://user-images.githubusercontent.com/52573800/210195277-824563ae-84d0-46fe-a3f8-b8eb34022819.gif" width="100%">
 I am a Backend Developer with 2+ years.
 
 ## Outlink
